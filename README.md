@@ -68,7 +68,7 @@ General Tab
 
 name | value
 -----| -----
-Name | js-websphere-traditional
+Name | js-websphere-traditional-service
 Type | NodePort
 
 Ports Tab
