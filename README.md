@@ -95,7 +95,7 @@ https://192.168.64.220:30412/ibm/console/logon.jsp
 192.168.64.220 is the url of ICP.
 
 # Obtaining the password
-Find out the pod name and run the
+Find out the pod name and run the, you will need to configure the kubectl using ICP context info.
 
 ```
 kubectl exec <podname> -it cat /tmp/PASSWORD
