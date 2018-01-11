@@ -89,8 +89,10 @@ app | js-websphere-traditional
 From the service link, append '**ibm/console**'
 Example
 ```
-http://192.168.64.221:30412/ibm/console
+https://192.168.64.220:30412/ibm/console/logon.jsp
 ```
+
+192.168.64.220 is the url of ICP.
 
 # Obtaining the password
 Find out the pod name and run the
