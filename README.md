@@ -102,3 +102,7 @@ kubectl exec <podname> -it cat /tmp/PASSWORD
 ```
 
 e.g. replace <podname> with **js-websphere-traditional-2986188259-15lxd**
+
+# References
+WebSphere traditional application server for developer
+- https://hub.docker.com/r/ibmcom/websphere-traditional/
